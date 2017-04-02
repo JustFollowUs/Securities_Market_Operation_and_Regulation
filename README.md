@@ -116,12 +116,12 @@
  ### <h3 id="special_learning_data">领域会议期刊</h3> 
 名称 | 会议/期刊
 :-- | :--: 
-- [American Finance Association Annual Meeting(AFA)](http://www.afajof.org/view/index.html) | 会议
-- [Journal of Finance ] | 期刊
-- [Review of Financial Studies](http://rfssfs.org/) | 期刊
-- [Journal of Financial Economics](http://jfe.rochester.edu/) | 期刊
-- [Journal of Financial and Quantitative Analysis](https://depts.washington.edu/jfqa/) | 期刊
-- [Journal of Banking and Finance](https://www.journals.elsevier.com/journal-of-banking-and-finance/) | 期刊
+[American Finance Association Annual Meeting(AFA)](http://www.afajof.org/view/index.html) | 会议
+[Journal of Finance ] | 期刊
+[Review of Financial Studies](http://rfssfs.org/) | 期刊
+[Journal of Financial Economics](http://jfe.rochester.edu/) | 期刊
+[Journal of Financial and Quantitative Analysis](https://depts.washington.edu/jfqa/) | 期刊
+[Journal of Banking and Finance](https://www.journals.elsevier.com/journal-of-banking-and-finance/) | 期刊
  
  ## <h2 id="many_thanks">致谢</h2> 
  感谢热心网友的建议与资料的分享。
