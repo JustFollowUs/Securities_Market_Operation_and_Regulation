@@ -20,7 +20,7 @@
  数值计算方法| [暂无] |[暂无] |[暂无]
  微观经济学 | [暂无] |[暂无] |[暂无]
  会计学| [暂无] |[暂无] |[暂无]
- 宏观经济                | [暂无] |[暂无] |[暂无]
+ 宏观经济 | [暂无] |[暂无] |[暂无]
  货币经融学| [暂无] |[暂无] |[暂无]
  财政学| [暂无] |[暂无] |[暂无]
  统计学| [暂无] |[暂无] |[暂无]
@@ -103,14 +103,26 @@
  
  ## <h2 id="booklists">推荐书籍列表</h2> 
   以下推荐的书籍都是公认的证券市场运行与监管领域界的好书，建议**一般难度的书籍至少详细阅读一本，建议看两本**，而较难的书籍不做任何要求，大家可以在学有余力时细细品味经典。
- 
- 暂无(希望大家推荐) 
- 
+  
+书名 | 难度
+:-- | :--: 
+[金融学](https://www.amazon.cn/%E9%87%91%E8%9E%8D%E5%AD%A6-%E5%85%B9%E7%BB%B4%E2%80%A2%E5%8D%9A%E8%BF%AA/dp/B003BIEN74) | 一般
+ [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | 一般
+[投资学](https://www.amazon.cn/%E6%8A%95%E8%B5%84%E5%AD%A6-%E6%BB%8B%E7%BB%B4%C2%B7%E5%8D%9A%E8%BF%AA/dp/B002CQV6PI) | 一般
+[公司理财](https://www.amazon.cn/%E5%85%AC%E5%8F%B8%E7%90%86%E8%B4%A2-%E6%96%AF%E8%92%82%E8%8A%AC-A-%E7%BD%97%E6%96%AF/dp/B006WHDXZO) | 一般
+
  ## <h3 id="special_learning">证券市场运行与监管专项领域学习</h3> 
  如果您已经完成了上述的所有科目，恭喜您已经拥有十分扎实的证券市场运行与监管基础了，已经是一名合格的证券市场运行与监管成员了，可以较为顺利的进入下面某一专项领域进行较为深入研究,因为并不是所有的专项领域都有对应的课程或者书籍等学习资料，所以此处我们仅列举一些我们知道的专项领域的学习资料，当然这些领域不能涵盖所有，还有很多领域没有整理（希望大家一起完善），如果这些领域适合你，那就继续加油！如果不清楚，那么大家可以去下面列举的高级会议期刊上去寻找自己感兴趣的话题进行学习研究。
  
  ### <h3 id="special_learning_data">领域会议期刊</h3> 
- 暂无(欢迎大家补充) 
+名称 | 会议/期刊
+:-- | :--: 
+- [American Finance Association Annual Meeting(AFA)](http://www.afajof.org/view/index.html) | 会议
+- [Journal of Finance ] | 期刊
+- [Review of Financial Studies](http://rfssfs.org/) | 期刊
+- [Journal of Financial Economics](http://jfe.rochester.edu/) | 期刊
+- [Journal of Financial and Quantitative Analysis](https://depts.washington.edu/jfqa/) | 期刊
+- [Journal of Banking and Finance](https://www.journals.elsevier.com/journal-of-banking-and-finance/) | 期刊
  
  ## <h2 id="many_thanks">致谢</h2> 
  感谢热心网友的建议与资料的分享。
