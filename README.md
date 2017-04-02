@@ -107,7 +107,6 @@
 书名 | 难度
 :-- | :--: 
 [金融学](https://www.amazon.cn/%E9%87%91%E8%9E%8D%E5%AD%A6-%E5%85%B9%E7%BB%B4%E2%80%A2%E5%8D%9A%E8%BF%AA/dp/B003BIEN74) | 一般
- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) | 一般
 [投资学](https://www.amazon.cn/%E6%8A%95%E8%B5%84%E5%AD%A6-%E6%BB%8B%E7%BB%B4%C2%B7%E5%8D%9A%E8%BF%AA/dp/B002CQV6PI) | 一般
 [公司理财](https://www.amazon.cn/%E5%85%AC%E5%8F%B8%E7%90%86%E8%B4%A2-%E6%96%AF%E8%92%82%E8%8A%AC-A-%E7%BD%97%E6%96%AF/dp/B006WHDXZO) | 一般
 
